@@ -1,0 +1,24 @@
+{
+  "name": "kb-backend-week-2-startkit",
+  "version": "1.0.0",
+  "description": "raiting games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/and-444/games-rating.git"
+  },
+  "author": "And",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/and-444/games-rating/issues"
+  },
+  "homepage": "https://github.com/and-444/games-rating#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
